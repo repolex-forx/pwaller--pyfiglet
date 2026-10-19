@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pwaller/pyfiglet/commit/255827efbc09d662875dad50fa0edc1e1263bf45",
       "git:hexsha": "255827efbc09d662875dad50fa0edc1e1263bf45",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pwaller/pyfiglet/commit/2a0d81d92a30b8d28e83c1910ed7ebb52116a010",
